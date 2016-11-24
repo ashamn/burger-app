@@ -1,0 +1,11 @@
+0, [barnyardburger], 0, 130.0, 2016:09:15_14:18:41
+1, [barnyardburger:epicburger], 1, 250.0, 2016:09:15_14:19:51
+2, [epicburger], 2, 120.0, 2016:09:15_14:32:01
+3, [epicburger:barnyardburger], 3, 250.0, 2016:09:15_14:32:39
+4, [cinnamonroll], 4, 60.0, 2016:09:15_14:34:24
+5, [cinnamonroll:sundaepie:drpepper], 5, 155.0, 2016:09:15_17:13:25
+6, [roastedicedcoffee:icedtea:cocacola], 0, 115.0, 2016:09:15_17:16:14
+7, [barnyardburger:classicburger:benderburger], 5, 400.0, 2016:09:15_22:18:33
+8, [classicburger:barnyardburger], 6, 260.0, 2016:09:15_22:40:41
+9, [sundaepie], 7, 70.0, 2016:10:06_21:24:36
+10, [barnyardburger:epicburger], 8, 250.0, 2016:10:06_21:28:05

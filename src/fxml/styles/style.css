@@ -1,0 +1,212 @@
+#toptoolbar{
+	-fx-background-image: url('/fxml/images/orange.jpg');
+}
+
+#burgersmenu{
+	-fx-background-image: url('/fxml/images/Burgers.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#drinksmenu{
+	-fx-background-image: url('/fxml/images/Drinks.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#dessertmenu{
+	-fx-background-image: url('/fxml/images/Desserts.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#saladsmenu{
+	-fx-background-image: url('/fxml/images/Salads.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#epicburger{
+	-fx-background-image: url('/fxml/images/EpicBurger.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#barnyardburger{
+	-fx-background-image: url('/fxml/images/BarnyardBurger.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#classicburger{
+	-fx-background-image: url('/fxml/images/ClassicBurger.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#benderburger{
+	-fx-background-image: url('/fxml/images/BenderBurger.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#roastedicedcoffee{
+	-fx-background-image: url('/fxml/images/RoastedIcedCoffee.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#icedtea{
+	-fx-background-image: url('/fxml/images/IcedTea.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#cocacola{
+	-fx-background-image: url('/fxml/images/CocaCola.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#drpepper{
+	-fx-background-image: url('/fxml/images/DrPepper.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#dutchapplepie{
+	-fx-background-image: url('/fxml/images/DutchApplePie.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#fudgesundae{
+	-fx-background-image: url('/fxml/images/FudgeSundae.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#sundaepie
+{
+	-fx-background-image: url('/fxml/images/SundaePie.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#cinnamonroll
+{
+	-fx-background-image: url('/fxml/images/CinnamonRoll.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#gardengrilledchickensalad
+{
+	-fx-background-image: url('/fxml/images/GardenGrilledChickenSalad.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#gardensidesalad
+{
+	-fx-background-image: url('/fxml/images/GardenSideSalad.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#baconcheddarchickensalad
+{
+	-fx-background-image: url('/fxml/images/BaconCheddarChickenSalad.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#crispychickensalad
+{
+	-fx-background-image: url('/fxml/images/CrispyChickenSalad.jpg');
+	-fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+#menubutton{
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-radius: 0;
+    -fx-background-color: transparent;
+    -fx-font-family:"Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-font-size: 2em; /* 12 */
+    -fx-text-fill: #f9fafd;
+}
+#menubutton:focused{
+    -fx-border-color: transparent;
+    -fx-border-width: 1, 1;
+    -fx-border-style: solid, segments(1, 2);
+    -fx-border-radius: 0, 0;
+    -fx-border-insets: 1 1 1 1, 0;
+}
+
+#cartbutton{
+	-fx-background-image: url('/fxml/images/cart1.png');
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-radius: 0;
+    -fx-background-color: transparent;
+    -fx-font-family:"Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-font-size: 2em; /* 12 */
+    -fx-text-fill: #f9fafd;
+}
+#cartbutton:focused{
+    -fx-border-color: transparent;
+    -fx-border-width: 1, 1;
+    -fx-border-style: solid, segments(1, 2);
+    -fx-border-radius: 0, 0;
+    -fx-border-insets: 1 1 1 1, 0;
+}
+#vboxrevieworder{
+	-fx-background-image: url('/fxml/images/Back.jpg');
+}
+#entryformanchor{
+	-fx-background-image: url('/fxml/images/Back2.jpg');
+}
+#entrysubmitbutton
+{
+	-fx-background-color: 
+    #c3c4c4,
+    linear-gradient(#d6d6d6 50%, white 100%),
+    radial-gradient(center 50% -40%, radius 200%, #e6e6e6 45%, rgba(230,230,230,0) 50%);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,1;
+    -fx-text-fill: black;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 3, 0.0 , 0 , 1 );
+}
+#loginbutton
+{
+	-fx-background-color: 
+    #c3c4c4,
+    linear-gradient(#d6d6d6 50%, white 100%),
+    radial-gradient(center 50% -40%, radius 200%, #e6e6e6 45%, rgba(230,230,230,0) 50%);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,1;
+    -fx-text-fill: black;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 3, 0.0 , 0 , 1 );
+}
+
+#carticon {
+    -fx-opacity: 0.8;
+}
+
+#totalorderslabel {
+    -fx-opacity: 0.3;
+}
+
+#totalorderslabel:hover{
+    -fx-opacity: 1;
+}
+
+#totalcustomerslabel {
+    -fx-opacity: 0.3;
+}
+
+#totalcustomerslabel:hover{
+    -fx-opacity: 1;
+}
